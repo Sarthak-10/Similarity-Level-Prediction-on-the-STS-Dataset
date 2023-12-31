@@ -1,6 +1,6 @@
 # Similarity-Level-Prediction-on-the-STS-Dataset
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Colab_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](A3a_Project%20Code.ipynb)
 
 :star:**Please star the repository if you happen to like the project**
 
